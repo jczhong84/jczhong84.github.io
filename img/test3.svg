@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="900" viewBox="0 0 300 450" xml:space="preserve">
+<desc>Created with Fabric.js 2.3.6</desc>
+<defs>
+</defs>
+<g transform="translate(203.48 369.52) scale(0.21 0.21)" style="">
+	<g transform="translate(0 0)">
+	<image xlink:href="https://pinterest.github.io/gestalt/static/media/stock4.0a629ab7.jpg" x="-282" y="-258.5" style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" width="564" height="517"></image>
+</g>
+	<circle cx="0" cy="0" r="50" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(11,97,164); fill-rule: nonzero; opacity: 1;" transform="translate(-131.5 -108) "/>
+	<polygon points="-75,50 0,-50 75,50 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,175,100); fill-rule: nonzero; opacity: 1;" transform="translate(-46.5 -8) "/>
+</g>
+	<g transform="translate(66.49 57.1)">
+		<text xml:space="preserve" font-family="Times New Roman" font-size="40" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-39.99" y="12.57" >hello</tspan></text>
+	</g>
+</svg>
