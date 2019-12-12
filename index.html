@@ -37,8 +37,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
     <script>
       function receiveMessage(event) {
-        if (event.origin !== "https://5tcm7.csb.app") return;
         console.log("received event", event);
+        if (event.origin !== "https://5tcm7.csb.app") return;
         event.source.postMessage("ack!", event.origin);
       }
 
